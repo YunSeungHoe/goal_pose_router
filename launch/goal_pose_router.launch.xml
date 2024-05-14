@@ -1,0 +1,3 @@
+<launch>
+  <node pkg="goal_pose_router" exec="goal_pose_router" name="goal_pose_router_node" output="screen"/>
+</launch>
